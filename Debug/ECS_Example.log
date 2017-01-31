@@ -1,0 +1,18 @@
+﻿  TankAi.cpp
+g:\ecs\ecs_example\src\ai\tankai.cpp(97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+g:\ecs\ecs_example\src\ai\tankai.cpp(126): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\ecs\ecs_example\src\ai\tankai.cpp(136): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ECS_Example.vcxproj -> G:\ECS\ECS_Example\Debug\ECS_Example.exe
+  ECS_Example.vcxproj -> G:\ECS\ECS_Example\Debug\ECS_Example.pdb (Partial PDB)
+  G:\ECS\ECS_Example\dlls\sfml-audio-2.dll
+  G:\ECS\ECS_Example\dlls\sfml-audio-d-2.dll
+  G:\ECS\ECS_Example\dlls\sfml-graphics-2.dll
+  G:\ECS\ECS_Example\dlls\sfml-graphics-d-2.dll
+  G:\ECS\ECS_Example\dlls\sfml-network-2.dll
+  G:\ECS\ECS_Example\dlls\sfml-network-d-2.dll
+  G:\ECS\ECS_Example\dlls\sfml-system-2.dll
+  G:\ECS\ECS_Example\dlls\sfml-system-d-2.dll
+  G:\ECS\ECS_Example\dlls\sfml-window-2.dll
+  G:\ECS\ECS_Example\dlls\sfml-window-d-2.dll
+  G:\ECS\ECS_Example\dlls\thor-d.dll
+         11 file(s) copied.
